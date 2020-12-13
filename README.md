@@ -1,4 +1,4 @@
-# ul-homework
+# ul
 
 ## Project setup
 ```
